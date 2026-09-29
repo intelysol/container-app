@@ -1,0 +1,6 @@
+{
+  "name": "ContainerCheck AI",
+  "description": "Industrial shipping container inspection, damage analysis, and ISO 17712 cargo verification terminal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
